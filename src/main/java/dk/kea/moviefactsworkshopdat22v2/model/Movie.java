@@ -4,6 +4,6 @@ public class Movie {
 
     //Movie POJO
     //Year;Length;Title;Subject;Popularity;Awards
-    
+
 
 }
